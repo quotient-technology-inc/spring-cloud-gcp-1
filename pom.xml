@@ -14,7 +14,7 @@
 	<version>1.2.0</version>
 	<packaging>pom</packaging>
 	<name>Spring Cloud GCP</name>
-	<description>Spring Cloud GCP</description>
+	<description>Spring Cloud GCP</description> 
 
 	<scm>
 		<url>https://github.com/spring-cloud/spring-cloud-gcp</url>
